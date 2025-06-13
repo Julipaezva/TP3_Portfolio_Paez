@@ -36,7 +36,6 @@ body {
 
 .logo-img {
 width: 50px;
-;
 }
 
 /* NAV */
@@ -70,7 +69,6 @@ nav .nav-button {
   height: 933px;
   max-width: 1920px;
   margin: 0 auto;
-  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
